@@ -15,6 +15,7 @@ This project includes a simple command-line BMI calculator in Python.
 
 ```bash
 python cli_bmi_calculator.py
+```
 
 # EDA on Retail Sales Data
 
